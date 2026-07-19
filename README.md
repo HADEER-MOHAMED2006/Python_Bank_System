@@ -59,12 +59,11 @@ bank_system.py   # Main script containing all program logic
 - After performing one action from the bank menu, the user returns to the main menu instead of staying logged in — planned as a future improvement.
 
 ## Roadmap / Possible Improvements
-
-- [ ] Loop the bank menu so users can perform multiple actions per session
-- [ ] Persist data using a file (JSON) or database
-- [ ] Hash passwords instead of storing them as plain text
-- [ ] Add transaction history (not just the last transaction)
-- [ ] Refactor into functions/classes as OOP concepts are learned
+- Loop the bank menu so users can perform multiple actions per session
+- Persist data using a file (JSON) or database
+- Hash passwords instead of storing them as plain text
+- Add transaction history (not just the last transaction)
+- Refactor into functions/classes as OOP concepts are learned
 
 ## Author
 
