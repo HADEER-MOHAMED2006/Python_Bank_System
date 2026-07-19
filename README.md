@@ -1,4 +1,4 @@
-# 🏦 Python Bank – Account Management System
+# Python Bank – Account Management System
 
 A simple command-line banking system built with core Python (no external libraries). It lets users register, log in, and manage their account through an interactive menu.
 
